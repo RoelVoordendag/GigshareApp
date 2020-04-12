@@ -14,10 +14,16 @@ struct ContentView: View {
             Text("Welcome to Gigshare")
                 .font(.title)
                 .fontWeight(.bold)
-            
             Spacer()
+            
+            Button(action: {
+                print("testin")
+//              Write your actions here
+            }) {
+                Text("Login to Spotify")
+//                This part is for styling
+            }
         }
-//        padding()
     }
 }
 
