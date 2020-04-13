@@ -17,7 +17,7 @@ struct ContentView: View {
             Spacer()
             
             Button(action: {
-                print("testin")
+                initSpotify()
 //              Write your actions here
             }) {
                 Text("Login to Spotify")
@@ -31,4 +31,8 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
+}
+// Call spotify for client id
+func initSpotify(){
+    
 }
