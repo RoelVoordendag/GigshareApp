@@ -13,6 +13,7 @@
 		3922E51B243CE87F008517C1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3922E51A243CE87F008517C1 /* Assets.xcassets */; };
 		3922E51E243CE87F008517C1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3922E51D243CE87F008517C1 /* Preview Assets.xcassets */; };
 		3922E521243CE87F008517C1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3922E51F243CE87F008517C1 /* LaunchScreen.storyboard */; };
+		39F65DCD2444FA5800349FAE /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F65DCC2444FA5800349FAE /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3922E51D243CE87F008517C1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3922E520243CE87F008517C1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3922E522243CE87F008517C1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39F65DCC2444FA5800349FAE /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Constant.swift; path = "Preview Content/Constant.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		3922E513243CE87E008517C1 /* GigShare */ = {
 			isa = PBXGroup;
 			children = (
+				39F65DCC2444FA5800349FAE /* Constant.swift */,
 				3922E514243CE87E008517C1 /* AppDelegate.swift */,
 				3922E516243CE87E008517C1 /* SceneDelegate.swift */,
 				3922E518243CE87E008517C1 /* ContentView.swift */,
@@ -149,6 +152,7 @@
 				3922E515243CE87E008517C1 /* AppDelegate.swift in Sources */,
 				3922E517243CE87E008517C1 /* SceneDelegate.swift in Sources */,
 				3922E519243CE87E008517C1 /* ContentView.swift in Sources */,
+				39F65DCD2444FA5800349FAE /* Constant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

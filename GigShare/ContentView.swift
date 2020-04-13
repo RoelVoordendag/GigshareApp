@@ -33,6 +33,6 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 // Call spotify for client id
-func initSpotify(){
-    
+func initSpotify (){
+    print(Constants.spotifyClientid)
 }
