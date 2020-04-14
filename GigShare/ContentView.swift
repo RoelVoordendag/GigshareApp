@@ -18,7 +18,6 @@ struct ContentView: View {
             
             Button(action: {
                 initSpotify()
-//              Write your actions here
             }) {
                 Text("Login to Spotify")
 //                This part is for styling

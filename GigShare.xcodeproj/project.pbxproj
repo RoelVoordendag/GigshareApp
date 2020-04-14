@@ -7,6 +7,96 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		390F373E2446432700C90479 /* MPMessagePack-LICENSE.md in Resources */ = {isa = PBXBuildFile; fileRef = 390F36B22446432600C90479 /* MPMessagePack-LICENSE.md */; };
+		390F373F2446432700C90479 /* CHANGELOG.md in Resources */ = {isa = PBXBuildFile; fileRef = 390F36B32446432600C90479 /* CHANGELOG.md */; };
+		390F37402446432700C90479 /* SPTAppRemoteCallback.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36B72446432600C90479 /* SPTAppRemoteCallback.html */; };
+		390F37412446432700C90479 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36B82446432600C90479 /* index.html */; };
+		390F37422446432700C90479 /* _index.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36BB2446432600C90479 /* _index.scss */; };
+		390F37432446432700C90479 /* _variables.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36BC2446432600C90479 /* _variables.scss */; };
+		390F37442446432700C90479 /* _xcode.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36BD2446432600C90479 /* _xcode.scss */; };
+		390F37452446432700C90479 /* _print.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36BE2446432600C90479 /* _print.scss */; };
+		390F37462446432700C90479 /* _layout.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36BF2446432600C90479 /* _layout.scss */; };
+		390F37472446432700C90479 /* _object.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C02446432600C90479 /* _object.scss */; };
+		390F37482446432700C90479 /* style.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C12446432600C90479 /* style.scss */; };
+		390F37492446432700C90479 /* _normalize.scss in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C22446432600C90479 /* _normalize.scss */; };
+		390F374A2446432700C90479 /* style.css in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C32446432600C90479 /* style.css */; };
+		390F374B2446432700C90479 /* SPTSessionManager.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C52446432600C90479 /* SPTSessionManager.html */; };
+		390F374C2446432700C90479 /* SPTAppRemoteConnectionParams.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C62446432600C90479 /* SPTAppRemoteConnectionParams.html */; };
+		390F374D2446432700C90479 /* SPTAppRemote.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C72446432600C90479 /* SPTAppRemote.html */; };
+		390F374E2446432700C90479 /* SPTSession.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C82446432600C90479 /* SPTSession.html */; };
+		390F374F2446432700C90479 /* SPTConfiguration.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36C92446432600C90479 /* SPTConfiguration.html */; };
+		390F37502446432700C90479 /* SPTError.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36CA2446432600C90479 /* SPTError.html */; };
+		390F37512446432700C90479 /* hierarchy.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36CB2446432600C90479 /* hierarchy.html */; };
+		390F37522446432700C90479 /* script.js in Resources */ = {isa = PBXBuildFile; fileRef = 390F36CD2446432600C90479 /* script.js */; };
+		390F37532446432700C90479 /* SPTAppRemoteLogLevel.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36CF2446432600C90479 /* SPTAppRemoteLogLevel.html */; };
+		390F37542446432700C90479 /* SPTAppRemotePlaybackOptionsRepeatMode.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D02446432600C90479 /* SPTAppRemotePlaybackOptionsRepeatMode.html */; };
+		390F37552446432700C90479 /* SPTAppRemoteConnectionParamsImageFormat.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D12446432600C90479 /* SPTAppRemoteConnectionParamsImageFormat.html */; };
+		390F37562446432700C90479 /* SPTAuthorizationOptions.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D22446432600C90479 /* SPTAuthorizationOptions.html */; };
+		390F37572446432700C90479 /* SPTScope.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D32446432600C90479 /* SPTScope.html */; };
+		390F37582446432700C90479 /* SPTErrorCode.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D42446432600C90479 /* SPTErrorCode.html */; };
+		390F37592446432700C90479 /* SPTAppRemoteErrorCode.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D52446432600C90479 /* SPTAppRemoteErrorCode.html */; };
+		390F375A2446432700C90479 /* library_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D72446432600C90479 /* library_background.png */; };
+		390F375B2446432700C90479 /* disclosure.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D82446432600C90479 /* disclosure.png */; };
+		390F375C2446432700C90479 /* disclosure_open.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36D92446432600C90479 /* disclosure_open.png */; };
+		390F375D2446432700C90479 /* button_bar_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36DA2446432600C90479 /* button_bar_background.png */; };
+		390F375E2446432700C90479 /* title_background.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36DB2446432600C90479 /* title_background.png */; };
+		390F375F2446432700C90479 /* SPTAppRemoteAlbum.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36DD2446432600C90479 /* SPTAppRemoteAlbum.html */; };
+		390F37602446432700C90479 /* SPTAppRemotePlayerAPI.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36DE2446432600C90479 /* SPTAppRemotePlayerAPI.html */; };
+		390F37612446432700C90479 /* SPTAppRemoteTrack.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36DF2446432600C90479 /* SPTAppRemoteTrack.html */; };
+		390F37622446432700C90479 /* SPTAppRemoteContentItem.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E02446432600C90479 /* SPTAppRemoteContentItem.html */; };
+		390F37632446432700C90479 /* SPTAppRemoteUserAPIDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E12446432600C90479 /* SPTAppRemoteUserAPIDelegate.html */; };
+		390F37642446432700C90479 /* SPTAppRemotePlaybackRestrictions.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E22446432600C90479 /* SPTAppRemotePlaybackRestrictions.html */; };
+		390F37652446432700C90479 /* SPTAppRemoteCrossfadeState.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E32446432600C90479 /* SPTAppRemoteCrossfadeState.html */; };
+		390F37662446432700C90479 /* SPTAppRemoteImageAPI.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E42446432600C90479 /* SPTAppRemoteImageAPI.html */; };
+		390F37672446432700C90479 /* SPTAppRemotePlayerStateDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E52446432600C90479 /* SPTAppRemotePlayerStateDelegate.html */; };
+		390F37682446432700C90479 /* SPTAppRemoteImageRepresentable.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E62446432600C90479 /* SPTAppRemoteImageRepresentable.html */; };
+		390F37692446432700C90479 /* SPTAppRemotePodcastPlaybackSpeed.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E72446432600C90479 /* SPTAppRemotePodcastPlaybackSpeed.html */; };
+		390F376A2446432700C90479 /* SPTAppRemoteDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E82446432600C90479 /* SPTAppRemoteDelegate.html */; };
+		390F376B2446432700C90479 /* SPTAppRemoteUserAPI.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36E92446432600C90479 /* SPTAppRemoteUserAPI.html */; };
+		390F376C2446432700C90479 /* SPTAppRemoteContentAPI.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36EA2446432600C90479 /* SPTAppRemoteContentAPI.html */; };
+		390F376D2446432700C90479 /* SPTAppRemotePlayerState.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36EB2446432600C90479 /* SPTAppRemotePlayerState.html */; };
+		390F376E2446432700C90479 /* SPTSessionManagerDelegate.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36EC2446432600C90479 /* SPTSessionManagerDelegate.html */; };
+		390F376F2446432700C90479 /* SPTAppRemoteLibraryState.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36ED2446432600C90479 /* SPTAppRemoteLibraryState.html */; };
+		390F37702446432700C90479 /* SPTAppRemotePlaybackOptions.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36EE2446432600C90479 /* SPTAppRemotePlaybackOptions.html */; };
+		390F37712446432700C90479 /* SPTAppRemoteUserCapabilities.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36EF2446432600C90479 /* SPTAppRemoteUserCapabilities.html */; };
+		390F37722446432700C90479 /* SPTAppRemoteArtist.html in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F02446432600C90479 /* SPTAppRemoteArtist.html */; };
+		390F37732446432700C90479 /* auth.md in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F12446432600C90479 /* auth.md */; };
+		390F37742446432700C90479 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F22446432600C90479 /* README.md */; };
+		390F37752446432700C90479 /* import_sdk.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F42446432600C90479 /* import_sdk.png */; };
+		390F37762446432700C90479 /* info_plist.png in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F52446432600C90479 /* info_plist.png */; };
+		390F37772446432700C90479 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F62446432600C90479 /* .gitignore */; };
+		390F37782446432700C90479 /* spotify_token_swap.rb in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F82446432600C90479 /* spotify_token_swap.rb */; };
+		390F37792446432700C90479 /* .ruby-version in Resources */ = {isa = PBXBuildFile; fileRef = 390F36F92446432600C90479 /* .ruby-version */; };
+		390F377A2446432700C90479 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F36FF2446432600C90479 /* ViewController.swift */; };
+		390F377B2446432700C90479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 390F37002446432600C90479 /* Assets.xcassets */; };
+		390F377C2446432700C90479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390F37022446432600C90479 /* LaunchScreen.storyboard */; };
+		390F377D2446432700C90479 /* ConnectButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37042446432600C90479 /* ConnectButton.swift */; };
+		390F377E2446432700C90479 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37052446432600C90479 /* AppDelegate.swift */; };
+		390F377F2446432700C90479 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 390F37062446432600C90479 /* Info.plist */; };
+		390F37802446432700C90479 /* PlaybackButtonGraphics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F370C2446432600C90479 /* PlaybackButtonGraphics.swift */; };
+		390F37812446432700C90479 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F370D2446432600C90479 /* ViewController.swift */; };
+		390F37822446432700C90479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 390F370E2446432600C90479 /* Assets.xcassets */; };
+		390F37832446432700C90479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390F370F2446432600C90479 /* LaunchScreen.storyboard */; };
+		390F37842446432700C90479 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390F37112446432600C90479 /* Main.storyboard */; };
+		390F37852446432700C90479 /* ContentItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37132446432600C90479 /* ContentItemCell.swift */; };
+		390F37862446432700C90479 /* ConnectionStatusIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37142446432600C90479 /* ConnectionStatusIndicatorView.swift */; };
+		390F37872446432700C90479 /* My-Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37152446432600C90479 /* My-Extensions.swift */; };
+		390F37882446432700C90479 /* ContentCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37172446432600C90479 /* ContentCollectionViewController.swift */; };
+		390F37892446432700C90479 /* SpeedPickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F37182446432600C90479 /* SpeedPickerViewController.swift */; };
+		390F378A2446432700C90479 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F371A2446432600C90479 /* AppDelegate.swift */; };
+		390F378B2446432700C90479 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 390F371B2446432600C90479 /* Info.plist */; };
+		390F378C2446432700C90479 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 390F371C2446432600C90479 /* SceneDelegate.swift */; };
+		390F378D2446432700C90479 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 390F371D2446432600C90479 /* README.md */; };
+		390F378E2446432700C90479 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 390F371E2446432600C90479 /* README.md */; };
+		390F378F2446432700C90479 /* ConnectView.m in Sources */ = {isa = PBXBuildFile; fileRef = 390F37252446432700C90479 /* ConnectView.m */; };
+		390F37902446432700C90479 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 390F37262446432700C90479 /* Assets.xcassets */; };
+		390F37912446432700C90479 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 390F37272446432700C90479 /* ViewController.m */; };
+		390F37922446432700C90479 /* ConnectButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 390F37282446432700C90479 /* ConnectButton.m */; };
+		390F37932446432700C90479 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 390F37292446432700C90479 /* LaunchScreen.storyboard */; };
+		390F37942446432700C90479 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 390F372B2446432700C90479 /* main.m */; };
+		390F37952446432700C90479 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 390F372C2446432700C90479 /* AppDelegate.m */; };
+		390F37962446432700C90479 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 390F372E2446432700C90479 /* Info.plist */; };
+		390F37972446432700C90479 /* SpotifyiOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 390F37312446432700C90479 /* SpotifyiOS.framework */; };
 		3922E515243CE87E008517C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922E514243CE87E008517C1 /* AppDelegate.swift */; };
 		3922E517243CE87E008517C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922E516243CE87E008517C1 /* SceneDelegate.swift */; };
 		3922E519243CE87E008517C1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922E518243CE87E008517C1 /* ContentView.swift */; };
@@ -16,7 +106,139 @@
 		39F65DCD2444FA5800349FAE /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39F65DCC2444FA5800349FAE /* Constant.swift */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		390F37332446432700C90479 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 390F37082446432600C90479 /* NowPlayingView.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = F4F973EC1CAD60320036411D;
+			remoteInfo = NowPlayingView;
+		};
+		390F37372446432700C90479 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 390F37202446432600C90479 /* SPTLoginSampleApp.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 35029C4D1F5F476800383619;
+			remoteInfo = SPTLoginSampleApp;
+		};
+		390F37392446432700C90479 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 390F37202446432600C90479 /* SPTLoginSampleApp.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 54D50C4E20C87A480035B73A;
+			remoteInfo = SPTLoginSampleAppUITests;
+		};
+		390F373C2446432700C90479 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 390F36FB2446432600C90479 /* SPTLoginSampleAppSwift.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 54AC7EDC20081243008CD692;
+			remoteInfo = SPTLoginSampleAppSwift;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		390F35C3244640DB00C90479 /* ios-sdk-1.2.2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "ios-sdk-1.2.2"; sourceTree = "<group>"; };
+		390F36B22446432600C90479 /* MPMessagePack-LICENSE.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = "MPMessagePack-LICENSE.md"; sourceTree = "<group>"; };
+		390F36B32446432600C90479 /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = "<group>"; };
+		390F36B72446432600C90479 /* SPTAppRemoteCallback.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteCallback.html; sourceTree = "<group>"; };
+		390F36B82446432600C90479 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
+		390F36BB2446432600C90479 /* _index.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _index.scss; sourceTree = "<group>"; };
+		390F36BC2446432600C90479 /* _variables.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _variables.scss; sourceTree = "<group>"; };
+		390F36BD2446432600C90479 /* _xcode.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _xcode.scss; sourceTree = "<group>"; };
+		390F36BE2446432600C90479 /* _print.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _print.scss; sourceTree = "<group>"; };
+		390F36BF2446432600C90479 /* _layout.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _layout.scss; sourceTree = "<group>"; };
+		390F36C02446432600C90479 /* _object.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _object.scss; sourceTree = "<group>"; };
+		390F36C12446432600C90479 /* style.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = style.scss; sourceTree = "<group>"; };
+		390F36C22446432600C90479 /* _normalize.scss */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = _normalize.scss; sourceTree = "<group>"; };
+		390F36C32446432600C90479 /* style.css */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.css; path = style.css; sourceTree = "<group>"; };
+		390F36C52446432600C90479 /* SPTSessionManager.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTSessionManager.html; sourceTree = "<group>"; };
+		390F36C62446432600C90479 /* SPTAppRemoteConnectionParams.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteConnectionParams.html; sourceTree = "<group>"; };
+		390F36C72446432600C90479 /* SPTAppRemote.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemote.html; sourceTree = "<group>"; };
+		390F36C82446432600C90479 /* SPTSession.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTSession.html; sourceTree = "<group>"; };
+		390F36C92446432600C90479 /* SPTConfiguration.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTConfiguration.html; sourceTree = "<group>"; };
+		390F36CA2446432600C90479 /* SPTError.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTError.html; sourceTree = "<group>"; };
+		390F36CB2446432600C90479 /* hierarchy.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = hierarchy.html; sourceTree = "<group>"; };
+		390F36CD2446432600C90479 /* script.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = script.js; sourceTree = "<group>"; };
+		390F36CF2446432600C90479 /* SPTAppRemoteLogLevel.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteLogLevel.html; sourceTree = "<group>"; };
+		390F36D02446432600C90479 /* SPTAppRemotePlaybackOptionsRepeatMode.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePlaybackOptionsRepeatMode.html; sourceTree = "<group>"; };
+		390F36D12446432600C90479 /* SPTAppRemoteConnectionParamsImageFormat.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteConnectionParamsImageFormat.html; sourceTree = "<group>"; };
+		390F36D22446432600C90479 /* SPTAuthorizationOptions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAuthorizationOptions.html; sourceTree = "<group>"; };
+		390F36D32446432600C90479 /* SPTScope.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTScope.html; sourceTree = "<group>"; };
+		390F36D42446432600C90479 /* SPTErrorCode.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTErrorCode.html; sourceTree = "<group>"; };
+		390F36D52446432600C90479 /* SPTAppRemoteErrorCode.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteErrorCode.html; sourceTree = "<group>"; };
+		390F36D72446432600C90479 /* library_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = library_background.png; sourceTree = "<group>"; };
+		390F36D82446432600C90479 /* disclosure.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure.png; sourceTree = "<group>"; };
+		390F36D92446432600C90479 /* disclosure_open.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = disclosure_open.png; sourceTree = "<group>"; };
+		390F36DA2446432600C90479 /* button_bar_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_bar_background.png; sourceTree = "<group>"; };
+		390F36DB2446432600C90479 /* title_background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = title_background.png; sourceTree = "<group>"; };
+		390F36DD2446432600C90479 /* SPTAppRemoteAlbum.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteAlbum.html; sourceTree = "<group>"; };
+		390F36DE2446432600C90479 /* SPTAppRemotePlayerAPI.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePlayerAPI.html; sourceTree = "<group>"; };
+		390F36DF2446432600C90479 /* SPTAppRemoteTrack.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteTrack.html; sourceTree = "<group>"; };
+		390F36E02446432600C90479 /* SPTAppRemoteContentItem.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteContentItem.html; sourceTree = "<group>"; };
+		390F36E12446432600C90479 /* SPTAppRemoteUserAPIDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteUserAPIDelegate.html; sourceTree = "<group>"; };
+		390F36E22446432600C90479 /* SPTAppRemotePlaybackRestrictions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePlaybackRestrictions.html; sourceTree = "<group>"; };
+		390F36E32446432600C90479 /* SPTAppRemoteCrossfadeState.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteCrossfadeState.html; sourceTree = "<group>"; };
+		390F36E42446432600C90479 /* SPTAppRemoteImageAPI.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteImageAPI.html; sourceTree = "<group>"; };
+		390F36E52446432600C90479 /* SPTAppRemotePlayerStateDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePlayerStateDelegate.html; sourceTree = "<group>"; };
+		390F36E62446432600C90479 /* SPTAppRemoteImageRepresentable.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteImageRepresentable.html; sourceTree = "<group>"; };
+		390F36E72446432600C90479 /* SPTAppRemotePodcastPlaybackSpeed.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePodcastPlaybackSpeed.html; sourceTree = "<group>"; };
+		390F36E82446432600C90479 /* SPTAppRemoteDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteDelegate.html; sourceTree = "<group>"; };
+		390F36E92446432600C90479 /* SPTAppRemoteUserAPI.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteUserAPI.html; sourceTree = "<group>"; };
+		390F36EA2446432600C90479 /* SPTAppRemoteContentAPI.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteContentAPI.html; sourceTree = "<group>"; };
+		390F36EB2446432600C90479 /* SPTAppRemotePlayerState.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePlayerState.html; sourceTree = "<group>"; };
+		390F36EC2446432600C90479 /* SPTSessionManagerDelegate.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTSessionManagerDelegate.html; sourceTree = "<group>"; };
+		390F36ED2446432600C90479 /* SPTAppRemoteLibraryState.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteLibraryState.html; sourceTree = "<group>"; };
+		390F36EE2446432600C90479 /* SPTAppRemotePlaybackOptions.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemotePlaybackOptions.html; sourceTree = "<group>"; };
+		390F36EF2446432600C90479 /* SPTAppRemoteUserCapabilities.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteUserCapabilities.html; sourceTree = "<group>"; };
+		390F36F02446432600C90479 /* SPTAppRemoteArtist.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = SPTAppRemoteArtist.html; sourceTree = "<group>"; };
+		390F36F12446432600C90479 /* auth.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = auth.md; sourceTree = "<group>"; };
+		390F36F22446432600C90479 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		390F36F42446432600C90479 /* import_sdk.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = import_sdk.png; sourceTree = "<group>"; };
+		390F36F52446432600C90479 /* info_plist.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = info_plist.png; sourceTree = "<group>"; };
+		390F36F62446432600C90479 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		390F36F82446432600C90479 /* spotify_token_swap.rb */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.ruby; path = spotify_token_swap.rb; sourceTree = "<group>"; };
+		390F36F92446432600C90479 /* .ruby-version */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ".ruby-version"; sourceTree = "<group>"; };
+		390F36FB2446432600C90479 /* SPTLoginSampleAppSwift.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = SPTLoginSampleAppSwift.xcodeproj; sourceTree = "<group>"; };
+		390F36FF2446432600C90479 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		390F37002446432600C90479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		390F37012446432600C90479 /* SPTLoginSampleAppSwift-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SPTLoginSampleAppSwift-Bridging-Header.h"; sourceTree = "<group>"; };
+		390F37032446432600C90479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		390F37042446432600C90479 /* ConnectButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectButton.swift; sourceTree = "<group>"; };
+		390F37052446432600C90479 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		390F37062446432600C90479 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		390F37082446432600C90479 /* NowPlayingView.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = NowPlayingView.xcodeproj; sourceTree = "<group>"; };
+		390F370C2446432600C90479 /* PlaybackButtonGraphics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaybackButtonGraphics.swift; sourceTree = "<group>"; };
+		390F370D2446432600C90479 /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		390F370E2446432600C90479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		390F37102446432600C90479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		390F37122446432600C90479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		390F37132446432600C90479 /* ContentItemCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentItemCell.swift; sourceTree = "<group>"; };
+		390F37142446432600C90479 /* ConnectionStatusIndicatorView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionStatusIndicatorView.swift; sourceTree = "<group>"; };
+		390F37152446432600C90479 /* My-Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "My-Extensions.swift"; sourceTree = "<group>"; };
+		390F37162446432600C90479 /* host.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = host.entitlements; sourceTree = "<group>"; };
+		390F37172446432600C90479 /* ContentCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentCollectionViewController.swift; sourceTree = "<group>"; };
+		390F37182446432600C90479 /* SpeedPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeedPickerViewController.swift; sourceTree = "<group>"; };
+		390F37192446432600C90479 /* NowPlayingView-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NowPlayingView-Bridging-Header.h"; sourceTree = "<group>"; };
+		390F371A2446432600C90479 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		390F371B2446432600C90479 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		390F371C2446432600C90479 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		390F371D2446432600C90479 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		390F371E2446432600C90479 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		390F37202446432600C90479 /* SPTLoginSampleApp.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = SPTLoginSampleApp.xcodeproj; sourceTree = "<group>"; };
+		390F37242446432600C90479 /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		390F37252446432700C90479 /* ConnectView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConnectView.m; sourceTree = "<group>"; };
+		390F37262446432700C90479 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		390F37272446432700C90479 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		390F37282446432700C90479 /* ConnectButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConnectButton.m; sourceTree = "<group>"; };
+		390F372A2446432700C90479 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		390F372B2446432700C90479 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		390F372C2446432700C90479 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		390F372D2446432700C90479 /* ConnectView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConnectView.h; sourceTree = "<group>"; };
+		390F372E2446432700C90479 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		390F372F2446432700C90479 /* ConnectButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConnectButton.h; sourceTree = "<group>"; };
+		390F37302446432700C90479 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		390F37312446432700C90479 /* SpotifyiOS.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SpotifyiOS.framework; sourceTree = "<group>"; };
 		3922E511243CE87E008517C1 /* GigShare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GigShare.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3922E514243CE87E008517C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3922E516243CE87E008517C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -33,17 +255,311 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				390F37972446432700C90479 /* SpotifyiOS.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		390F35C2244640DA00C90479 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				390F35C3244640DB00C90479 /* ios-sdk-1.2.2 */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		390F36B02446432600C90479 /* ios-sdk-1.2.2 */ = {
+			isa = PBXGroup;
+			children = (
+				390F36B12446432600C90479 /* Licenses */,
+				390F36B32446432600C90479 /* CHANGELOG.md */,
+				390F36B42446432600C90479 /* docs */,
+				390F36F22446432600C90479 /* README.md */,
+				390F36F32446432600C90479 /* img */,
+				390F36F62446432600C90479 /* .gitignore */,
+				390F36F72446432600C90479 /* DemoProjects */,
+				390F37312446432700C90479 /* SpotifyiOS.framework */,
+			);
+			path = "ios-sdk-1.2.2";
+			sourceTree = SOURCE_ROOT;
+		};
+		390F36B12446432600C90479 /* Licenses */ = {
+			isa = PBXGroup;
+			children = (
+				390F36B22446432600C90479 /* MPMessagePack-LICENSE.md */,
+			);
+			path = Licenses;
+			sourceTree = "<group>";
+		};
+		390F36B42446432600C90479 /* docs */ = {
+			isa = PBXGroup;
+			children = (
+				390F36B52446432600C90479 /* html */,
+				390F36F12446432600C90479 /* auth.md */,
+			);
+			path = docs;
+			sourceTree = "<group>";
+		};
+		390F36B52446432600C90479 /* html */ = {
+			isa = PBXGroup;
+			children = (
+				390F36B62446432600C90479 /* Blocks */,
+				390F36B82446432600C90479 /* index.html */,
+				390F36B92446432600C90479 /* css */,
+				390F36C42446432600C90479 /* Classes */,
+				390F36CB2446432600C90479 /* hierarchy.html */,
+				390F36CC2446432600C90479 /* js */,
+				390F36CE2446432600C90479 /* Constants */,
+				390F36D62446432600C90479 /* img */,
+				390F36DC2446432600C90479 /* Protocols */,
+			);
+			path = html;
+			sourceTree = "<group>";
+		};
+		390F36B62446432600C90479 /* Blocks */ = {
+			isa = PBXGroup;
+			children = (
+				390F36B72446432600C90479 /* SPTAppRemoteCallback.html */,
+			);
+			path = Blocks;
+			sourceTree = "<group>";
+		};
+		390F36B92446432600C90479 /* css */ = {
+			isa = PBXGroup;
+			children = (
+				390F36BA2446432600C90479 /* scss */,
+				390F36C32446432600C90479 /* style.css */,
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		390F36BA2446432600C90479 /* scss */ = {
+			isa = PBXGroup;
+			children = (
+				390F36BB2446432600C90479 /* _index.scss */,
+				390F36BC2446432600C90479 /* _variables.scss */,
+				390F36BD2446432600C90479 /* _xcode.scss */,
+				390F36BE2446432600C90479 /* _print.scss */,
+				390F36BF2446432600C90479 /* _layout.scss */,
+				390F36C02446432600C90479 /* _object.scss */,
+				390F36C12446432600C90479 /* style.scss */,
+				390F36C22446432600C90479 /* _normalize.scss */,
+			);
+			path = scss;
+			sourceTree = "<group>";
+		};
+		390F36C42446432600C90479 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				390F36C52446432600C90479 /* SPTSessionManager.html */,
+				390F36C62446432600C90479 /* SPTAppRemoteConnectionParams.html */,
+				390F36C72446432600C90479 /* SPTAppRemote.html */,
+				390F36C82446432600C90479 /* SPTSession.html */,
+				390F36C92446432600C90479 /* SPTConfiguration.html */,
+				390F36CA2446432600C90479 /* SPTError.html */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		390F36CC2446432600C90479 /* js */ = {
+			isa = PBXGroup;
+			children = (
+				390F36CD2446432600C90479 /* script.js */,
+			);
+			path = js;
+			sourceTree = "<group>";
+		};
+		390F36CE2446432600C90479 /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				390F36CF2446432600C90479 /* SPTAppRemoteLogLevel.html */,
+				390F36D02446432600C90479 /* SPTAppRemotePlaybackOptionsRepeatMode.html */,
+				390F36D12446432600C90479 /* SPTAppRemoteConnectionParamsImageFormat.html */,
+				390F36D22446432600C90479 /* SPTAuthorizationOptions.html */,
+				390F36D32446432600C90479 /* SPTScope.html */,
+				390F36D42446432600C90479 /* SPTErrorCode.html */,
+				390F36D52446432600C90479 /* SPTAppRemoteErrorCode.html */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		390F36D62446432600C90479 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				390F36D72446432600C90479 /* library_background.png */,
+				390F36D82446432600C90479 /* disclosure.png */,
+				390F36D92446432600C90479 /* disclosure_open.png */,
+				390F36DA2446432600C90479 /* button_bar_background.png */,
+				390F36DB2446432600C90479 /* title_background.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		390F36DC2446432600C90479 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				390F36DD2446432600C90479 /* SPTAppRemoteAlbum.html */,
+				390F36DE2446432600C90479 /* SPTAppRemotePlayerAPI.html */,
+				390F36DF2446432600C90479 /* SPTAppRemoteTrack.html */,
+				390F36E02446432600C90479 /* SPTAppRemoteContentItem.html */,
+				390F36E12446432600C90479 /* SPTAppRemoteUserAPIDelegate.html */,
+				390F36E22446432600C90479 /* SPTAppRemotePlaybackRestrictions.html */,
+				390F36E32446432600C90479 /* SPTAppRemoteCrossfadeState.html */,
+				390F36E42446432600C90479 /* SPTAppRemoteImageAPI.html */,
+				390F36E52446432600C90479 /* SPTAppRemotePlayerStateDelegate.html */,
+				390F36E62446432600C90479 /* SPTAppRemoteImageRepresentable.html */,
+				390F36E72446432600C90479 /* SPTAppRemotePodcastPlaybackSpeed.html */,
+				390F36E82446432600C90479 /* SPTAppRemoteDelegate.html */,
+				390F36E92446432600C90479 /* SPTAppRemoteUserAPI.html */,
+				390F36EA2446432600C90479 /* SPTAppRemoteContentAPI.html */,
+				390F36EB2446432600C90479 /* SPTAppRemotePlayerState.html */,
+				390F36EC2446432600C90479 /* SPTSessionManagerDelegate.html */,
+				390F36ED2446432600C90479 /* SPTAppRemoteLibraryState.html */,
+				390F36EE2446432600C90479 /* SPTAppRemotePlaybackOptions.html */,
+				390F36EF2446432600C90479 /* SPTAppRemoteUserCapabilities.html */,
+				390F36F02446432600C90479 /* SPTAppRemoteArtist.html */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		390F36F32446432600C90479 /* img */ = {
+			isa = PBXGroup;
+			children = (
+				390F36F42446432600C90479 /* import_sdk.png */,
+				390F36F52446432600C90479 /* info_plist.png */,
+			);
+			path = img;
+			sourceTree = "<group>";
+		};
+		390F36F72446432600C90479 /* DemoProjects */ = {
+			isa = PBXGroup;
+			children = (
+				390F36F82446432600C90479 /* spotify_token_swap.rb */,
+				390F36F92446432600C90479 /* .ruby-version */,
+				390F36FA2446432600C90479 /* SPTLoginSampleAppSwift */,
+				390F37072446432600C90479 /* NowPlayingView */,
+				390F371E2446432600C90479 /* README.md */,
+				390F371F2446432600C90479 /* SPTLoginSampleApp */,
+			);
+			path = DemoProjects;
+			sourceTree = "<group>";
+		};
+		390F36FA2446432600C90479 /* SPTLoginSampleAppSwift */ = {
+			isa = PBXGroup;
+			children = (
+				390F36FB2446432600C90479 /* SPTLoginSampleAppSwift.xcodeproj */,
+				390F36FE2446432600C90479 /* SPTLoginSampleAppSwift */,
+			);
+			path = SPTLoginSampleAppSwift;
+			sourceTree = "<group>";
+		};
+		390F36FC2446432600C90479 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				390F373D2446432700C90479 /* SPTLoginSampleAppSwift.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		390F36FE2446432600C90479 /* SPTLoginSampleAppSwift */ = {
+			isa = PBXGroup;
+			children = (
+				390F36FF2446432600C90479 /* ViewController.swift */,
+				390F37002446432600C90479 /* Assets.xcassets */,
+				390F37012446432600C90479 /* SPTLoginSampleAppSwift-Bridging-Header.h */,
+				390F37022446432600C90479 /* LaunchScreen.storyboard */,
+				390F37042446432600C90479 /* ConnectButton.swift */,
+				390F37052446432600C90479 /* AppDelegate.swift */,
+				390F37062446432600C90479 /* Info.plist */,
+			);
+			path = SPTLoginSampleAppSwift;
+			sourceTree = "<group>";
+		};
+		390F37072446432600C90479 /* NowPlayingView */ = {
+			isa = PBXGroup;
+			children = (
+				390F37082446432600C90479 /* NowPlayingView.xcodeproj */,
+				390F370B2446432600C90479 /* NowPlayingView */,
+				390F371D2446432600C90479 /* README.md */,
+			);
+			path = NowPlayingView;
+			sourceTree = "<group>";
+		};
+		390F37092446432600C90479 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				390F37342446432700C90479 /* NowPlayingView.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		390F370B2446432600C90479 /* NowPlayingView */ = {
+			isa = PBXGroup;
+			children = (
+				390F370C2446432600C90479 /* PlaybackButtonGraphics.swift */,
+				390F370D2446432600C90479 /* ViewController.swift */,
+				390F370E2446432600C90479 /* Assets.xcassets */,
+				390F370F2446432600C90479 /* LaunchScreen.storyboard */,
+				390F37112446432600C90479 /* Main.storyboard */,
+				390F37132446432600C90479 /* ContentItemCell.swift */,
+				390F37142446432600C90479 /* ConnectionStatusIndicatorView.swift */,
+				390F37152446432600C90479 /* My-Extensions.swift */,
+				390F37162446432600C90479 /* host.entitlements */,
+				390F37172446432600C90479 /* ContentCollectionViewController.swift */,
+				390F37182446432600C90479 /* SpeedPickerViewController.swift */,
+				390F37192446432600C90479 /* NowPlayingView-Bridging-Header.h */,
+				390F371A2446432600C90479 /* AppDelegate.swift */,
+				390F371B2446432600C90479 /* Info.plist */,
+				390F371C2446432600C90479 /* SceneDelegate.swift */,
+			);
+			path = NowPlayingView;
+			sourceTree = "<group>";
+		};
+		390F371F2446432600C90479 /* SPTLoginSampleApp */ = {
+			isa = PBXGroup;
+			children = (
+				390F37202446432600C90479 /* SPTLoginSampleApp.xcodeproj */,
+				390F37232446432600C90479 /* SPTLoginSampleApp */,
+			);
+			path = SPTLoginSampleApp;
+			sourceTree = "<group>";
+		};
+		390F37212446432600C90479 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				390F37382446432700C90479 /* SPTLoginSampleApp.app */,
+				390F373A2446432700C90479 /* SPTLoginSampleAppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		390F37232446432600C90479 /* SPTLoginSampleApp */ = {
+			isa = PBXGroup;
+			children = (
+				390F37242446432600C90479 /* AppDelegate.h */,
+				390F37252446432700C90479 /* ConnectView.m */,
+				390F37262446432700C90479 /* Assets.xcassets */,
+				390F37272446432700C90479 /* ViewController.m */,
+				390F37282446432700C90479 /* ConnectButton.m */,
+				390F37292446432700C90479 /* LaunchScreen.storyboard */,
+				390F372B2446432700C90479 /* main.m */,
+				390F372C2446432700C90479 /* AppDelegate.m */,
+				390F372D2446432700C90479 /* ConnectView.h */,
+				390F372E2446432700C90479 /* Info.plist */,
+				390F372F2446432700C90479 /* ConnectButton.h */,
+				390F37302446432700C90479 /* ViewController.h */,
+			);
+			path = SPTLoginSampleApp;
+			sourceTree = "<group>";
+		};
 		3922E508243CE87E008517C1 = {
 			isa = PBXGroup;
 			children = (
 				3922E513243CE87E008517C1 /* GigShare */,
 				3922E512243CE87E008517C1 /* Products */,
+				390F35C2244640DA00C90479 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +574,7 @@
 		3922E513243CE87E008517C1 /* GigShare */ = {
 			isa = PBXGroup;
 			children = (
+				390F36B02446432600C90479 /* ios-sdk-1.2.2 */,
 				39F65DCC2444FA5800349FAE /* Constant.swift */,
 				3922E514243CE87E008517C1 /* AppDelegate.swift */,
 				3922E516243CE87E008517C1 /* SceneDelegate.swift */,
@@ -124,6 +641,20 @@
 			mainGroup = 3922E508243CE87E008517C1;
 			productRefGroup = 3922E512243CE87E008517C1 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 390F37092446432600C90479 /* Products */;
+					ProjectRef = 390F37082446432600C90479 /* NowPlayingView.xcodeproj */;
+				},
+				{
+					ProductGroup = 390F37212446432600C90479 /* Products */;
+					ProjectRef = 390F37202446432600C90479 /* SPTLoginSampleApp.xcodeproj */;
+				},
+				{
+					ProductGroup = 390F36FC2446432600C90479 /* Products */;
+					ProjectRef = 390F36FB2446432600C90479 /* SPTLoginSampleAppSwift.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				3922E510243CE87E008517C1 /* GigShare */,
@@ -131,14 +662,117 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXReferenceProxy section */
+		390F37342446432700C90479 /* NowPlayingView.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = NowPlayingView.app;
+			remoteRef = 390F37332446432700C90479 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		390F37382446432700C90479 /* SPTLoginSampleApp.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = SPTLoginSampleApp.app;
+			remoteRef = 390F37372446432700C90479 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		390F373A2446432700C90479 /* SPTLoginSampleAppUITests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = SPTLoginSampleAppUITests.xctest;
+			remoteRef = 390F37392446432700C90479 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		390F373D2446432700C90479 /* SPTLoginSampleAppSwift.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = SPTLoginSampleAppSwift.app;
+			remoteRef = 390F373C2446432700C90479 /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
 /* Begin PBXResourcesBuildPhase section */
 		3922E50F243CE87E008517C1 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				390F37762446432700C90479 /* info_plist.png in Resources */,
+				390F37412446432700C90479 /* index.html in Resources */,
+				390F37522446432700C90479 /* script.js in Resources */,
+				390F374A2446432700C90479 /* style.css in Resources */,
+				390F375D2446432700C90479 /* button_bar_background.png in Resources */,
+				390F37672446432700C90479 /* SPTAppRemotePlayerStateDelegate.html in Resources */,
+				390F378E2446432700C90479 /* README.md in Resources */,
+				390F37642446432700C90479 /* SPTAppRemotePlaybackRestrictions.html in Resources */,
+				390F37612446432700C90479 /* SPTAppRemoteTrack.html in Resources */,
+				390F377F2446432700C90479 /* Info.plist in Resources */,
+				390F37602446432700C90479 /* SPTAppRemotePlayerAPI.html in Resources */,
+				390F37482446432700C90479 /* style.scss in Resources */,
+				390F37442446432700C90479 /* _xcode.scss in Resources */,
+				390F37842446432700C90479 /* Main.storyboard in Resources */,
+				390F376F2446432700C90479 /* SPTAppRemoteLibraryState.html in Resources */,
+				390F37662446432700C90479 /* SPTAppRemoteImageAPI.html in Resources */,
+				390F37472446432700C90479 /* _object.scss in Resources */,
+				390F37822446432700C90479 /* Assets.xcassets in Resources */,
+				390F37582446432700C90479 /* SPTErrorCode.html in Resources */,
+				390F37682446432700C90479 /* SPTAppRemoteImageRepresentable.html in Resources */,
+				390F37532446432700C90479 /* SPTAppRemoteLogLevel.html in Resources */,
+				390F375F2446432700C90479 /* SPTAppRemoteAlbum.html in Resources */,
+				390F37552446432700C90479 /* SPTAppRemoteConnectionParamsImageFormat.html in Resources */,
+				390F37962446432700C90479 /* Info.plist in Resources */,
+				390F374D2446432700C90479 /* SPTAppRemote.html in Resources */,
+				390F376B2446432700C90479 /* SPTAppRemoteUserAPI.html in Resources */,
+				390F374B2446432700C90479 /* SPTSessionManager.html in Resources */,
+				390F37722446432700C90479 /* SPTAppRemoteArtist.html in Resources */,
+				390F374C2446432700C90479 /* SPTAppRemoteConnectionParams.html in Resources */,
+				390F37452446432700C90479 /* _print.scss in Resources */,
+				390F37752446432700C90479 /* import_sdk.png in Resources */,
+				390F37732446432700C90479 /* auth.md in Resources */,
+				390F37932446432700C90479 /* LaunchScreen.storyboard in Resources */,
+				390F376D2446432700C90479 /* SPTAppRemotePlayerState.html in Resources */,
+				390F37692446432700C90479 /* SPTAppRemotePodcastPlaybackSpeed.html in Resources */,
+				390F373E2446432700C90479 /* MPMessagePack-LICENSE.md in Resources */,
+				390F377B2446432700C90479 /* Assets.xcassets in Resources */,
+				390F374F2446432700C90479 /* SPTConfiguration.html in Resources */,
+				390F37402446432700C90479 /* SPTAppRemoteCallback.html in Resources */,
+				390F377C2446432700C90479 /* LaunchScreen.storyboard in Resources */,
+				390F37702446432700C90479 /* SPTAppRemotePlaybackOptions.html in Resources */,
+				390F37562446432700C90479 /* SPTAuthorizationOptions.html in Resources */,
+				390F37622446432700C90479 /* SPTAppRemoteContentItem.html in Resources */,
+				390F37512446432700C90479 /* hierarchy.html in Resources */,
+				390F37652446432700C90479 /* SPTAppRemoteCrossfadeState.html in Resources */,
+				390F37832446432700C90479 /* LaunchScreen.storyboard in Resources */,
+				390F37712446432700C90479 /* SPTAppRemoteUserCapabilities.html in Resources */,
+				390F375C2446432700C90479 /* disclosure_open.png in Resources */,
+				390F37432446432700C90479 /* _variables.scss in Resources */,
+				390F37502446432700C90479 /* SPTError.html in Resources */,
+				390F376E2446432700C90479 /* SPTSessionManagerDelegate.html in Resources */,
+				390F378B2446432700C90479 /* Info.plist in Resources */,
+				390F373F2446432700C90479 /* CHANGELOG.md in Resources */,
+				390F37782446432700C90479 /* spotify_token_swap.rb in Resources */,
+				390F37902446432700C90479 /* Assets.xcassets in Resources */,
+				390F37792446432700C90479 /* .ruby-version in Resources */,
+				390F375B2446432700C90479 /* disclosure.png in Resources */,
+				390F37742446432700C90479 /* README.md in Resources */,
+				390F378D2446432700C90479 /* README.md in Resources */,
+				390F374E2446432700C90479 /* SPTSession.html in Resources */,
+				390F37632446432700C90479 /* SPTAppRemoteUserAPIDelegate.html in Resources */,
+				390F37422446432700C90479 /* _index.scss in Resources */,
 				3922E521243CE87F008517C1 /* LaunchScreen.storyboard in Resources */,
 				3922E51E243CE87F008517C1 /* Preview Assets.xcassets in Resources */,
 				3922E51B243CE87F008517C1 /* Assets.xcassets in Resources */,
+				390F37492446432700C90479 /* _normalize.scss in Resources */,
+				390F37542446432700C90479 /* SPTAppRemotePlaybackOptionsRepeatMode.html in Resources */,
+				390F37572446432700C90479 /* SPTScope.html in Resources */,
+				390F37772446432700C90479 /* .gitignore in Resources */,
+				390F376A2446432700C90479 /* SPTAppRemoteDelegate.html in Resources */,
+				390F375E2446432700C90479 /* title_background.png in Resources */,
+				390F375A2446432700C90479 /* library_background.png in Resources */,
+				390F376C2446432700C90479 /* SPTAppRemoteContentAPI.html in Resources */,
+				390F37462446432700C90479 /* _layout.scss in Resources */,
+				390F37592446432700C90479 /* SPTAppRemoteErrorCode.html in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,16 +783,65 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				390F37912446432700C90479 /* ViewController.m in Sources */,
+				390F377D2446432700C90479 /* ConnectButton.swift in Sources */,
+				390F37872446432700C90479 /* My-Extensions.swift in Sources */,
+				390F377A2446432700C90479 /* ViewController.swift in Sources */,
+				390F378A2446432700C90479 /* AppDelegate.swift in Sources */,
+				390F378F2446432700C90479 /* ConnectView.m in Sources */,
+				390F37852446432700C90479 /* ContentItemCell.swift in Sources */,
+				390F37892446432700C90479 /* SpeedPickerViewController.swift in Sources */,
 				3922E515243CE87E008517C1 /* AppDelegate.swift in Sources */,
+				390F378C2446432700C90479 /* SceneDelegate.swift in Sources */,
+				390F37942446432700C90479 /* main.m in Sources */,
+				390F37812446432700C90479 /* ViewController.swift in Sources */,
+				390F37802446432700C90479 /* PlaybackButtonGraphics.swift in Sources */,
+				390F37922446432700C90479 /* ConnectButton.m in Sources */,
 				3922E517243CE87E008517C1 /* SceneDelegate.swift in Sources */,
+				390F377E2446432700C90479 /* AppDelegate.swift in Sources */,
+				390F37862446432700C90479 /* ConnectionStatusIndicatorView.swift in Sources */,
+				390F37882446432700C90479 /* ContentCollectionViewController.swift in Sources */,
 				3922E519243CE87E008517C1 /* ContentView.swift in Sources */,
 				39F65DCD2444FA5800349FAE /* Constant.swift in Sources */,
+				390F37952446432700C90479 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
+		390F37022446432600C90479 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				390F37032446432600C90479 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		390F370F2446432600C90479 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				390F37102446432600C90479 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		390F37112446432600C90479 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				390F37122446432600C90479 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		390F37292446432700C90479 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				390F372A2446432700C90479 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
 		3922E51F243CE87F008517C1 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -291,6 +974,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"GigShare/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/ios-sdk-1.2.2",
+				);
 				INFOPLIST_FILE = GigShare/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -310,6 +997,10 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"GigShare/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)/ios-sdk-1.2.2",
+				);
 				INFOPLIST_FILE = GigShare/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
